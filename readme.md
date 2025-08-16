@@ -40,4 +40,4 @@ You can start and stop the color change process using the provided buttons.
 ---
 
 ## 📷 Live Demo
-[clike me to visit website]()
+[clike me to visit website](https://color-picker-prteek.netlify.app/)
